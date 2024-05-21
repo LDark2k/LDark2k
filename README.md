@@ -85,3 +85,6 @@ The pins of the potentiometers and buttons are configured as follows:
 5. Enjoy!
 
 ---
+## Dúvidas?
+- Contato Telegram: @L_Dark2k
+
